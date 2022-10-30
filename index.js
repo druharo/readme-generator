@@ -17,11 +17,6 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Table of Contents?',
-        name: 'toc',
-    },
-    {
-        type: 'input',
         message: 'Installation?',
         name: 'installation',
     },
@@ -48,8 +43,13 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Questions?',
-        name: 'questions',
+        message: 'GitHub Username?',
+        name: 'githubusername',  
+    },
+    {
+        type: 'input',
+        message: 'E-Mail Address?',
+        name: 'emailaddress', 
     },
 ];
 
