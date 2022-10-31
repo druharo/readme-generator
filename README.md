@@ -1,5 +1,8 @@
-# ddd
-## ddd
+# README.md GENERATOR
+undefined
+
+## Dynamic README.md GENERATOR
+
 ## TABLE OF CONTENTS
 1. [Installation](#installation)
 2. [Usage](#usage)
@@ -9,20 +12,19 @@
 6. [Questions](#questions)
 
 ## INSTALLATION
-ddd
+Node js
 
 ## USAGE
-dd
+Node js
 
 ## LICENSE
-GPL
 
 ## CONTRIBUTING GUIDELINES
-dd
+Email attached
 
 ## TEST INSTRUCTIONS
-dd
+Email attached
 
 ## QUESTIONS
-dd
-
+1. [My GitHubProfile?](https://github.com/druharo/)
+2. [My email?](mailto://ruharo@gmail.com)
