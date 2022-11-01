@@ -1,7 +1,7 @@
-# README.md GENERATOR
-undefined
+# README.md Generator
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Dynamic README.md GENERATOR
+## Dynamic README.md Generator
 
 ## TABLE OF CONTENTS
 1. [Installation](#installation)
@@ -12,18 +12,19 @@ undefined
 6. [Questions](#questions)
 
 ## INSTALLATION
-Node js
+npm install
 
 ## USAGE
-Node js
+To generate a dynamic README.md
 
 ## LICENSE
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## CONTRIBUTING GUIDELINES
-Email attached
+Use GitHud link provided
 
 ## TEST INSTRUCTIONS
-Email attached
+Not applicable
 
 ## QUESTIONS
 1. [My GitHubProfile?](https://github.com/druharo/)
